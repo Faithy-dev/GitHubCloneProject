@@ -1,1 +1,2 @@
-This is the description of my repo
+# Git Branch and Merge Practice
+Objective: Practice creating branches, merging, and resolving conflicts.
